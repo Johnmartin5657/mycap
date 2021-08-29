@@ -1,2 +1,2 @@
 # mycap
-Assighnment-1
+Assighnments
